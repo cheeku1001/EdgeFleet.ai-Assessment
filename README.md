@@ -22,6 +22,21 @@ Outputs/
 
 ## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-python code/ball_tracking_dataset.py
+1. Clone the repository:
+   git clone https://github.com/YourUsername/cricket-ball-trajectory-hybrid.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Place your test videos in a folder:
+   /content/drive/MyDrive/cricket_videos/
+
+4. Update `VIDEO_DIR` inside `code/ball_tracking_dataset.py` with your folder path
+
+5. Run the tracker:
+   python code/ball_tracking_dataset.py
+
+6. Outputs:
+   - `conclusion/<video_name>/trajectory.mp4`
+   - `conclusion/<video_name>/ball_coordinates.csv`
+
