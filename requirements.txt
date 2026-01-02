@@ -1,0 +1,5 @@
+```txt
+opencv-python
+numpy
+pandas
+ultralytics
