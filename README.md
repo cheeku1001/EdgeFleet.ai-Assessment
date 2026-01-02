@@ -37,6 +37,6 @@ Outputs/
    python code/ball_tracking_dataset.py
 
 6. Outputs:
-   - `conclusion/<video_name>/trajectory.mp4`
-   - `conclusion/<video_name>/ball_coordinates.csv`
+   - `Outputs/<video_name>/trajectory.mp4`
+   - `Outputs/<video_name>/ball_coordinates.csv`
 
