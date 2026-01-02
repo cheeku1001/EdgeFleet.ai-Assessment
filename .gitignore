@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-conclusion/
+Outputs/
 *.mp4
 *.mov
 .ipynb_checkpoints/
